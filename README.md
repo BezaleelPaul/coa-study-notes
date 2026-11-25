@@ -1,10 +1,10 @@
-# 4CSGC2092 - Computer Organization & Architecture (COA) Study Notes & Guides
+# 4CSGC2092 - Computer Organization & Architecture (COA) Study Notes & Question Banks
 
-Comprehensive study materials, module-by-module breakdown, strategy guide, and high-yield exam preparation notes for **Computer Organization and Architecture (COA)** (Course Code: `4CSGC2092`).
+Comprehensive study materials, question banks, module-by-module breakdown, strategy guide, and high-yield exam preparation notes for **Computer Organization and Architecture (COA)** (Course Code: `4CSGC2092`).
 
 ---
 
-## 📚 Contents Overview
+## 📚 Study Materials & PDF Notes
 
 | File | Description |
 | :--- | :--- |
@@ -19,13 +19,25 @@ Comprehensive study materials, module-by-module breakdown, strategy guide, and h
 
 ---
 
+## 📊 Question Banks (Excel Spreadsheets)
+
+Official / course question bank sheets with module-wise question distributions and Bloom's taxonomy mapping:
+
+| File | Batch | Description |
+| :--- | :--- | :--- |
+| **[`question_banks/11. COA QB 3rd sem 2024 batch.xlsx`](./question_banks/11.%20COA%20QB%203rd%20sem%202024%20batch.xlsx)** | 2024 Batch | Latest 3rd semester Question Bank (COA) |
+| **[`question_banks/11. COA QB 3rd sem 2023 batch.xlsx`](./question_banks/11.%20COA%20QB%203rd%20sem%202023%20batch.xlsx)** | 2023 Batch | Previous 3rd semester Question Bank (COA) |
+
+---
+
 ## 🚀 How to Use
 
 1. **For Quick Revision & Last-Minute Exam Prep**: Start with `COA_Exam_High_Yield_Short_Notes.pdf`.
-2. **For Structured Semester Prep**: Follow `4CSGC2092_COA_Strategy_and_Mapping.pdf` and study Modules 1 through 5 sequentially.
-3. **For In-Depth Topic Clarification**: Refer to `4CSGC2092_COA_Complete_Master_Guide.pdf`.
+2. **For Practice & Question Patterns**: Review the question banks in `question_banks/` to identify repeated questions and high-weightage topics.
+3. **For Structured Semester Prep**: Follow `4CSGC2092_COA_Strategy_and_Mapping.pdf` and study Modules 1 through 5 sequentially.
+4. **For In-Depth Topic Clarification**: Refer to `4CSGC2092_COA_Complete_Master_Guide.pdf`.
 
 ---
 
 ## 📄 License
-These study notes are shared publicly for educational and reference purposes.
+These study notes and question banks are shared publicly for educational and reference purposes.
