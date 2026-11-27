@@ -8,6 +8,7 @@ Comprehensive study materials, question banks, module-by-module breakdown, strat
 
 | File | Description |
 | :--- | :--- |
+| **[`4CSGC2092_COA_FINAL_EXAM_MASTER_NOTES.pdf`](./4CSGC2092_COA_FINAL_EXAM_MASTER_NOTES.pdf)** | Final Exam Master Notes (31 Smart Topics covering 100% of all 153 QB questions — 8M + Section A 2M) |
 | **[`4CSGC2092_COA_Complete_153_QB_Solutions.pdf`](./4CSGC2092_COA_Complete_153_QB_Solutions.pdf)** | Complete 153 Question Bank Solutions across all 5 modules |
 | **[`4CSGC2092_COA_Complete_Master_Guide.pdf`](./4CSGC2092_COA_Complete_Master_Guide.pdf)** | Full comprehensive guide covering the complete syllabus and concepts |
 | **[`COA_Exam_High_Yield_Short_Notes.pdf`](./COA_Exam_High_Yield_Short_Notes.pdf)** | Quick revision high-yield notes tailored for exam preparation |
